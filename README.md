@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MaksRogulin
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on web applications that will just blow your mind😎
 - 📫 How to reach me: maksimilianrogulin@gmail.com
 
 <!---
