@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaksRogulin
+- 👋 Hi, my name is Maksimilian
 - 👀 I’m interested in Web Development
 - 📫 How to reach me: maksimilianrogulin@gmail.com
 
